@@ -1,0 +1,8 @@
+## RECSRecommendations Upload File
+## RECS''## RECS'' indicates a Recommendations pre-process header. Please do not remove these lines.
+## RECS
+## RECSUse this file to upload product display information to Recommendations. Each product has its own row. Each line must contain 19 values and if not all are filled a space should be left.
+## RECSThe last 100 columns (entity.custom1 - entity.custom100) are custom. The name 'customN' can be replaced with a custom name such as 'onSale' or 'brand'.
+## RECSIf the products already exist in Recommendations then changes uploaded here will override the data in Recommendations. Any new attributes entered here will be added to the product''s entry in Recommendations.
+## RECSentity.id,entity.name,entity.categoryId,entity.message,entity.thumbnailUrl,entity.value,entity.minPrice,entity.maxPrice,entity.pageUrl,entity.inventory,entity.margin,entity.skus,entity.brand,entity.locale,entity.pdpPath,entity.productImage,entity.series,entity.subtitle
+g635-7-1-surround-sound-gaming-headset-en-ca,G635,gaming-audio,,,149.99,149.99,149.99,https://www.logitechg.com/en-ca/products/gaming-audio/g635-7-1-surround-sound-gaming-headset.981-000748.html,0,,"[""981-000748""]",Logitech G,en_ca,/content/gaming/amr/live/en_ca/products/gaming-audio/g635-7-1-surround-sound-gaming-headset.981-000748.html,/content/dam/gaming/en/non-braid/sylvanas-g635/g635-gallery-1-nb.png,g,7.1 Surround Sound LIGHTSYNC Gaming Headset
